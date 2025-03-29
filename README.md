@@ -1,4 +1,3 @@
-# digitRecognition
 # MNIST Digit Classification with Webcam Integration
 
 This project explores deep learning through the application of a Multi-Layer Perceptron to classify handwritten digits from the MNIST dataset. The model is trained using TensorFlow and Keras to achieve high accuracy in digit classification. The training pipeline encompasses data preprocessing, normalization, and splitting into training, validation, and test datasets. It employs techniques such as dropout, batch normalization, and early stopping to prevent overfitting and improve model performance.
